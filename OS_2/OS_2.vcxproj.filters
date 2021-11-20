@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="OS_2.cpp">
+    <ClCompile Include="OS_2.c">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="mmemory.c">

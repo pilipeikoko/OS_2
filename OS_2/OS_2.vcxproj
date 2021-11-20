@@ -140,7 +140,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="OS_2.cpp" />
+    <ClCompile Include="OS_2.c" />
     <ClCompile Include="mmemory.c" />
   </ItemGroup>
   <ItemGroup>
